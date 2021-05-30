@@ -16,7 +16,7 @@ $ pip install -r requirements.txt
 Hello World.
 This is test.
 ```
-3. It can be run in python3.
+3. Can be run in python3.
 ```
 $ python3 morse_code.py
 ```
