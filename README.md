@@ -3,7 +3,7 @@
 ## Overview
   It converts text written in a text file into Morse code and outputs it to speakers and LEDs.
   
-## Circuit diagram
+## Breadboard diagram
 ![CircuitDiagram](https://user-images.githubusercontent.com/51155766/120108810-b675c900-c1a1-11eb-9e85-fb0010ff9330.PNG)
 
 ## Usage
